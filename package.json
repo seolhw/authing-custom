@@ -11,9 +11,12 @@
   "dependencies": {
     "art-template": "^4.13.2",
     "authing-js-sdk": "^4.23.36-rc.0",
+    "chinese-random-name": "^2.0.0",
     "debug": "^4.1.1",
+    "faker": "^5.5.3",
     "koa": "^2.7.0",
     "koa-art-template": "^1.1.1",
+    "koa-body": "^6.0.1",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
     "koa-json": "^2.0.2",
@@ -22,7 +25,9 @@
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
     "koa-views": "^6.2.0",
-    "pug": "^2.0.3"
+    "pinyin": "^3.0.0-alpha.5",
+    "pug": "^2.0.3",
+    "ramda": "^0.29.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
